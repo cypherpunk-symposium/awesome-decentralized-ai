@@ -125,7 +125,7 @@
 * [aiagenttoolkit.xyz](https://www.aiagenttoolkit.xyz/courses)
 * [ef's ai agents guide](https://ethereum.org/en/ai-agents/)
 * [tesa on rise of ai agents](https://collective.flashbots.net/t/rise-of-ai-agents/4813)
-
+* [coinbase's agentkit](https://github.com/coinbase/agentkit)
 <br>
 
 --- 
