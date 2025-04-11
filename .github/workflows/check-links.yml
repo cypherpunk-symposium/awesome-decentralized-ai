@@ -1,0 +1,32 @@
+name: 👾 awesome linter
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: 👾 check links
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --no-progress --format markdown --output lychee-results.md README.md
+          
+      - name: 🚨 create issue if broken links are found
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const results = fs.readFileSync('lychee-results.md', 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'broken links found in README',
+              body: `the following broken links were found:\n\n${results}`
+            }); 
