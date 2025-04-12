@@ -192,6 +192,8 @@
 
 ### deepseek
 
+> *"deepseek r1 zero will be best known as the first open model trained with “large-scale reinforcement learning (rl) without supervised fine-tuning (sft) as a preliminary step."* - nathan lambert
+
 * [deepseek-r1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [deepseek-v3](https://github.com/deepseek-ai/DeepSeek-V3)
 * [light-r1](https://github.com/Qihoo360/Light-R1)
@@ -201,15 +203,15 @@
 
 <br>
 
-### rlhf
-
-* [nathan lambert's rlhf book](https://rlhfbook.com/) (the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models)
-
-<br>
-
 ### anthropic
 
 * [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+
+<br>
+
+### rlhf
+
+* [nathan lambert's rlhf book](https://rlhfbook.com/) (the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models)
 
 <br>
 

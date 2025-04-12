@@ -2,11 +2,12 @@
 
 <br>
 
+
 ### ml on blockchains
 
 <br>
 
-* [opML: Optimistic Machine Learning on Blockchain](https://arxiv.org/pdf/2401.17555)
+* [opml: optimistic machine learning on blockchain](https://arxiv.org/pdf/2401.17555)
 
 <br>
 
@@ -46,9 +47,24 @@ networks using decentralized mixture-of-experts](https://arxiv.org/pdf/2002.0401
 
 ---
 
-### 3d paralellism training
+### models
 
 <br>
 
+* [deepseekmath: pushing the limits of mathematical reasoning in open language models](https://arxiv.org/abs/2402.03300)
+* [training large language models to reason in a continuous latent space](https://arxiv.org/abs/2412.06769)
+* [scaling up test-time compute with latent reasoning: a recurrent depth approach](https://arxiv.org/abs/2502.05171)
+* [do all languages cost the same? tokenization in the era of commercial language models](https://arxiv.org/abs/2305.13707)
+
+<br>
+
+---
+
+### 3d paralellism training and scaling
+
+<br>
+
+* [scaling up test-time compute with latent reasoning: a recurrent depth approach](https://arxiv.org/abs/2502.05171)
+* [training large language models to reason in a continuous latent space](https://arxiv.org/abs/2412.06769)
 * [a deep dive into 3d parallelism with nanotron](https://tj-solergibert.github.io/post/3d-parallelism/)
 

@@ -41,8 +41,14 @@
 
 <br>
 
+* [deepseek r1 recipe for o1](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
 * [distillation in llm](https://www.datacamp.com/blog/distillation-llm)
 * [RL backlog: OpenAI's many RLs, clarifying distillation, and latent reasoning](https://www.interconnects.ai/p/rl-backlog-openais-many-rls-clarifying)
+
+<br>
+
+<img src="imgs/deepseek_aime_accuracy.png" width="500">
+<img src="imgs/deepseek_length_per_response.png" width="500">
 
 <br>
 
