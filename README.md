@@ -201,6 +201,12 @@
 
 <br>
 
+### rlhf
+
+* [nathan lambert's rlhf book](https://rlhfbook.com/) (the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models)
+
+<br>
+
 ### anthropic
 
 * [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
@@ -237,4 +243,4 @@
 <br>
 
 * [microsoft's lessons to get started building ai agent](https://github.com/microsoft/ai-agents-for-beginners)
-* [financial-machine-learning](https://github.com/firmai/financial-machine-learning))
+* [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
