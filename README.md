@@ -43,7 +43,7 @@
 - [eliza](https://github.com/elizaos/eliza): a loved framework with multiple features, suitable for chatbots, agents, and trading
 - [yacana](https://github.com/remembersoftwares/yacana): a task-driven llm multi-agent framework
 - [promptflow](https://github.com/microsoft/promptflow): a suite of development tools to streamline the end-to-end development cycle of llm-based ai applications, good for prototyping and monitoring
-- [crew ai](https://github.com/crewaIinc/crewai): a framework for orchestrating role-playing, autonomous ai agents
+- [crew ai](https://github.com/crewaiinc/crewai): a framework for orchestrating role-playing, autonomous ai agents
 - [agno](https://github.com/agno-agi/agno): a lightweight framework for building agents with memory
 - [langroid](https://github.com/langroid/langroid): a lightweight, extensible, and principled framework to easily build llm applications
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel): microsoft's framework to connect to any llm with built-in support
@@ -216,9 +216,9 @@
 <br>
 
 - [nousresearch](https://nousresearch.com/), its ["distributed training over-the-internet"](https://distro.nousresearch.com/), and its [🤗](https://huggingface.co/nousresearch)
-- [gensyn](https://www.gensyn.ai/), its [litepaper](https://docs.gensyn.ai/litepaper), and its [🤗](https://huggingface.co/Gensyn)
+- [gensyn](https://www.gensyn.ai/), its [litepaper](https://docs.gensyn.ai/litepaper), and its [🤗](https://huggingface.co/gensyn)
 - [pluralis research](https://pluralis.ai/) and its [🤗](https://huggingface.co/pluralisresearch)
-- [prime intellect](https://www.primeintellect.ai/) and its [🤗](https://huggingface.co/PrimeIntellect)
+- [prime intellect](https://www.primeintellect.ai/) and its [🤗](https://huggingface.co/primeintellect)
 - [ezkl](https://ezkl.xyz/)
 - [lattica.ai](https://www.lattica.ai/) and its [🤗](https://huggingface.co/lattica)
 
@@ -274,12 +274,12 @@
 
 <br>
 
-- [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI)
-- [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=OC61Vo4tAaE)
-- [around the block with coinfund: decentralized training in ai (2024)](https://www.youtube.com/watch?v=Ichh_3gQF94)
-- [marc andreessen on ai, tech, censorship and dining with trump](https://www.youtube.com/watch?v=sgTeZXw-ytQ)
-- [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnEW090)
-- [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jNMSFT7g)
+- [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpei)
+- [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=oc61vo4taae)
+- [around the block with coinfund: decentralized training in ai (2024)](https://www.youtube.com/watch?v=ichh_3gqf94)
+- [marc andreessen on ai, tech, censorship and dining with trump](https://www.youtube.com/watch?v=sgtezxw-ytq)
+- [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnew090)
+- [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jnmsft7g)
 
 <br>
 

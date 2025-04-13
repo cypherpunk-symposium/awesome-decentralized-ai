@@ -1,4 +1,4 @@
-# decentralized and/or distributed training (deAI)
+# decentralized and/or distributed training (deai)
 
 <br>
 
