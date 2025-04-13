@@ -215,7 +215,7 @@
 
 <br>
 
-- [nousresearch](https://nousresearch.com/), its [🤗](https://huggingface.co/nousresearch), and its ["distributed training over-the-internet"](https://distro.nousresearch.com/)
+- [nousresearch](https://nousresearch.com/), its ["distributed training over-the-internet"](https://distro.nousresearch.com/), and its [🤗](https://huggingface.co/nousresearch)
 - [gensyn](https://www.gensyn.ai/), its [litepaper](https://docs.gensyn.ai/litepaper), and its [🤗](https://huggingface.co/Gensyn)
 - [pluralis research](https://pluralis.ai/) and its [🤗](https://huggingface.co/pluralisresearch)
 - [prime intellect](https://www.primeintellect.ai/) and its [🤗](https://huggingface.co/PrimeIntellect)
