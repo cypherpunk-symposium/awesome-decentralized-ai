@@ -1,0 +1,38 @@
+name: grammar
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  grammar-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: 👾 set up node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: 👾 install dependencies
+        run: |
+          npm install -g markdownlint-cli write-good
+          
+      - name: 👾 check for lowercase filenames
+        run: |
+          if find . -name "*.md" -not -path "./.github/*" | grep -q '[A-Z]'; then
+            echo "Error: Found markdown files with uppercase letters in their names"
+            find . -name "*.md" -not -path "./.github/*" | grep '[A-Z]'
+            exit 1
+          fi
+          
+      - name: 👾 run markdownlint
+        run: |
+          markdownlint "**/*.md" --ignore .github
+          
+      - name: 👾 run write-good
+        run: |
+          find . -name "*.md" -not -path "./.github/*" -exec write-good {} \; 

@@ -1,4 +1,4 @@
-name: 👾 awesome linter
+name: 👾 lint
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
       - name: 👾 check links
         uses: lycheeverse/lychee-action@v1.9.0
         with:
-          args: --no-progress --format markdown --output lychee-results.md README.md
+          args: --no-progress --format markdown --output lychee-results.md "**/*.md"
           
       - name: 🚨 create issue if broken links are found
         if: failure()
@@ -27,6 +27,6 @@ jobs:
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'broken links found in README',
+              title: 'broken links found in markdown files',
               body: `the following broken links were found:\n\n${results}`
             }); 
