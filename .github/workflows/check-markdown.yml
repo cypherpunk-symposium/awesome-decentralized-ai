@@ -25,9 +25,9 @@ jobs:
           
       - name: run markdownlint
         run: |
-          if ! npx markdownlint "**/*.md" --ignore .github --config .github/.markdownlint.json; then
+          if ! npx markdownlint "**/*.md" --ignore .github --config .markdownlint.json; then
             echo "❌ markdownlint errors found:"
-            npx markdownlint "**/*.md" --ignore .github --config .github/.markdownlint.json --verbose
+            npx markdownlint "**/*.md" --ignore .github --config .markdownlint.json --verbose
             exit 1
           fi
           echo "✅ markdownlint passed" 
