@@ -22,9 +22,9 @@ jobs:
           
       - name: run markdownlint
         run: |
-          if ! markdownlint "**/*.md" --ignore .github --config .markdownlint.json; then
+          if ! markdownlint "**/*.md" --ignore .github --config .github/workflows/.markdownlint.json; then
             echo "❌ markdownlint errors found:"
-            markdownlint "**/*.md" --ignore .github --config .markdownlint.json --verbose
+            markdownlint "**/*.md" --ignore .github --config .github/workflows/.markdownlint.json --verbose
             exit 1
           fi
           echo "✅ markdownlint passed" 
