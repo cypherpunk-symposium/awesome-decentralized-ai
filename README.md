@@ -103,10 +103,6 @@
 
 <br>
 
-### frameworks 
-
-<br>
-
 - [alith](https://github.com/0xlazai/alith): metis' ai agent framework designed for web3 
 - [nearai](https://github.com/nearai/nearai): near's distributed system for building, deploying, and managing ai agents
 - [uagents](https://github.com/fetchai/uagents): a fast and lightweight framework for creating decentralized agents
@@ -163,10 +159,6 @@
 --- 
 
 ## 🌲 security and privacy frameworks
-
-<br>
-
-### frameworks
 
 <br>
 

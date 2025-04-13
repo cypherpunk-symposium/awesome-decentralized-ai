@@ -1,0 +1,15 @@
+{
+  "default": true,
+  "MD013": {
+    "line_length": 108,
+    "ignore_code_blocks": true
+  },
+  "MD033": {
+    "allowed_elements": ["br"]
+  },
+  "MD051": false,
+  "MD035": {
+    "style": "---"
+  },
+  "MD045": false
+} 

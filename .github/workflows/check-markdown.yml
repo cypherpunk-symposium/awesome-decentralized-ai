@@ -1,0 +1,33 @@
+name: markdown
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: setup node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: install dependencies
+        run: |
+          npm ci
+          npm list markdownlint-cli
+          
+      - name: run markdownlint
+        run: |
+          if ! npx markdownlint "**/*.md" --ignore .github --config .github/.markdownlint.json; then
+            echo "❌ markdownlint errors found:"
+            npx markdownlint "**/*.md" --ignore .github --config .github/.markdownlint.json --verbose
+            exit 1
+          fi
+          echo "✅ markdownlint passed" 
