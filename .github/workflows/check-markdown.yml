@@ -16,18 +16,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
           
-      - name: install dependencies
-        run: |
-          npm ci
-          npm list markdownlint-cli
+      - name: install markdownlint-cli
+        run: npm install -g markdownlint-cli --no-package-lock
           
       - name: run markdownlint
         run: |
-          if ! npx markdownlint "**/*.md" --ignore .github --config .markdownlint.json; then
+          if ! markdownlint "**/*.md" --ignore .github --config .markdownlint.json; then
             echo "❌ markdownlint errors found:"
-            npx markdownlint "**/*.md" --ignore .github --config .markdownlint.json --verbose
+            markdownlint "**/*.md" --ignore .github --config .markdownlint.json --verbose
             exit 1
           fi
           echo "✅ markdownlint passed" 

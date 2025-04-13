@@ -3,8 +3,10 @@
 
 [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![license: unlicense](https://img.shields.io/badge/license-unlicense-blue.svg)](http://unlicense.org/)
-[![lint](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-links.yml/badge.svg)](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-links.yml)
+[![markdown](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-markdown.yml)
 [![grammar](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-grammar.yml/badge.svg)](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-grammar.yml)
+[![urls](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-links.yml/badge.svg)](https://github.com/lilit-org/awesome-decentralized-ai/actions/workflows/check-links.yml)
+
 
 <br>
 
