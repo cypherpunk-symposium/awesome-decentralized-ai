@@ -215,12 +215,12 @@
 
 <br>
 
-- [nousresearch](https://nousresearch.com/), its [hugging face](https://huggingface.co/nousresearch), and its ["distributed training over-the-internet"](https://distro.nousresearch.com/)
-- [gensyn](https://www.gensyn.ai/) and its [litepaper](https://docs.gensyn.ai/litepaper)
-- [pluralis research](https://pluralis.ai/)
-- [prime intellect](https://www.primeintellect.ai/)
+- [nousresearch](https://nousresearch.com/), its [🤗](https://huggingface.co/nousresearch), and its ["distributed training over-the-internet"](https://distro.nousresearch.com/)
+- [gensyn](https://www.gensyn.ai/), its [litepaper](https://docs.gensyn.ai/litepaper), and its [🤗](https://huggingface.co/Gensyn)
+- [pluralis research](https://pluralis.ai/) and its [🤗](https://huggingface.co/pluralisresearch)
+- [prime intellect](https://www.primeintellect.ai/) and its [🤗](https://huggingface.co/PrimeIntellect)
 - [ezkl](https://ezkl.xyz/)
-- [lattica.ai](https://www.lattica.ai/)
+- [lattica.ai](https://www.lattica.ai/) and its [🤗](https://huggingface.co/lattica)
 
 <br>
 

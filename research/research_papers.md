@@ -107,9 +107,9 @@
 
 <br>
 
-- [opml: optimistic machine learning on blockchain](https://arxiv.org/pdf/2401.17555)
-- [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2401.17555)
-- [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2401.17555)
+- [opml: optimistic machine learning on blockchain](https://arxiv.org/abs/2401.17555)
+- [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2301.04820)
+- [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2304.09858)
 
 <br>
 
@@ -120,8 +120,8 @@
 <br>
 
 - [verifiable evaluations of machine learning models using zksnarks](https://arxiv.org/pdf/2402.02675)
-- [differential privacy for machine learning: a survey](https://arxiv.org/abs/2401.17555)
-- [secure aggregation for federated learning: a survey](https://arxiv.org/abs/2401.17555)
+- [differential privacy for machine learning: a survey](https://arxiv.org/abs/2303.00654)
+- [secure aggregation for federated learning: a survey](https://arxiv.org/abs/2304.09858)
 
 <br>
 

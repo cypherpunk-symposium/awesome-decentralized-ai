@@ -23,6 +23,10 @@
   - [anthropic](#anthropic)
 - [🌲 ml on blockchains](#🌲-ml-on-blockchains)
 - [🌲 security and sybil resistance](#🌲-security-and-sybil-resistance)
+  - [zero-knowledge machine learning (zkml)](#zero-knowledge-machine-learning-zkml)
+  - [fully homomorphic encryption (fhe)](#fully-homomorphic-encryption-fhe)
+  - [trusted execution environments (tees)](#trusted-execution-environments-tees)
+  - [verifiable compute](#verifiable-compute)
 - [🌲 hardware and costs](#🌲-hardware-and-costs)
 
 <br>
@@ -105,6 +109,10 @@
 <br>
 
 > distro (distributed training optimization) focuses on optimizing distributed training workflows and resource utilization.
+
+<br>
+
+- [distro: distributed training optimization](https://github.com/nousresearch/distro)
 
 <br>
 
@@ -245,6 +253,7 @@
 
 <br>
 
+- [anthropic](https://www.anthropic.com/)
 - [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
 <br>
@@ -256,6 +265,8 @@
 <br>
 
 - [opml: optimistic machine learning on blockchain](https://arxiv.org/pdf/2401.17555)
+- [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2401.17555)
+- [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2401.17555)
 
 <br>
 
@@ -300,6 +311,16 @@
 <br>
 
 > <i>tees are much more computationally efficient: model weights could be held and processed in tees to ensure privacy without introducing significant overhead. however, they are only present on specialized hardware.</i>
+
+<br>
+
+---
+
+### verifiable compute
+
+<br>
+
+* [prime intelect's toploc](https://www.primeintellect.ai/blog/toploc)
 
 <br>
 
