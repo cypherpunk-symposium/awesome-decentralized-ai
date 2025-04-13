@@ -6,4 +6,4 @@ check:
 
 
 test:
-	npm install -g markdownlint-cli && markdownlint "research/glossary.md" --config .github/workflows/.markdownlint.json
+	npm install -g markdownlint-cli && markdownlint "**/*.md" --config .github/workflows/.markdownlint.json

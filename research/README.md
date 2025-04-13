@@ -38,9 +38,9 @@
 <br>
 
 - [deai – part 1: exiting the matrix](https://www.bigbrain.holdings/post/deai-part1-exiting-the-matrix/) and [deai - part 2: decentralized training](https://www.bigbrain.holdings/post/dai-part2-decentralized-training/)
-- [the past, present, and future of decentralized training](https://www.symbolic.capital/writing/frontier-training): 
-    - <i>"decentralized ai training faces three critical hurdles: technical feasibility, achieving trustless and private handling of data and model weights, and scaling networks to compete with centralized solutions."</i>
-    - <i>"if we continue with this centralized approach, the only way forward will be to build ever-larger data centers, adding more compute power and investing heavily in advanced networking to avoid bottlenecks. but it's unclear if this model of scaling will even hold."</i>
+- [the past, present, and future of decentralized training](https://www.symbolic.capital/writing/frontier-training):
+  - <i>"decentralized ai training faces three critical hurdles: technical feasibility, achieving trustless and private handling of data and model weights, and scaling networks to compete with centralized solutions."</i>
+  - <i>"if we continue with this centralized approach, the only way forward will be to build ever-larger data centers, adding more compute power and investing heavily in advanced networking to avoid bottlenecks. but it's unclear if this model of scaling will even hold."</i>
 - [the state of the art of decentralized training](https://www.primeintellect.ai/blog/our-approach-to-decentralized-training)
 - [gpt@home: why the future of training is decentralized, by j. amico](https://www.gensyn.ai/articles/gpt-at-home)
 - [the scaling hypothesis](https://gwern.net/scaling-hypothesis)
@@ -144,7 +144,7 @@
 
 <br>
 
---- 
+---
 
 ## 🌲 training tools and techniques
 
@@ -182,7 +182,7 @@
 <br>
 
 - [nathan lambert's rlhf book](https://rlhfbook.com/)
-    - <i>"the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models"</i>
+  - <i>"the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models"</i>
 
 <br>
 
@@ -230,7 +230,6 @@
 - [deepseek-v3](https://github.com/deepseek-ai/deepseek-v3)
 
 <br>
-
 
 #### distillation in llms
 
@@ -320,7 +319,7 @@
 
 <br>
 
-* [prime intelect's toploc](https://www.primeintellect.ai/blog/toploc)
+- [prime intelect's toploc](https://www.primeintellect.ai/blog/toploc)
 
 <br>
 

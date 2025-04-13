@@ -29,7 +29,7 @@
 
 <br>
 
---- 
+---
 
 ## 🌲 general-purpose agentic frameworks
 
@@ -156,13 +156,13 @@
 
 <br>
 
---- 
+---
 
 ## 🌲 security and privacy frameworks
 
 <br>
 
-- [morpheus](https://github.com/nv-morpheus/morpheus): open ai application framework for cybersecurity 
+- [morpheus](https://github.com/nv-morpheus/morpheus): open ai application framework for cybersecurity
 
 <br>
 
@@ -201,7 +201,7 @@
 
 <br>
 
---- 
+---
 
 ### market landscape and research groups
 
