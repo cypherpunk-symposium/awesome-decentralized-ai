@@ -1,25 +1,69 @@
-## research
+# decentralized (and distributed) ai (deai) studies
 
 <br>
 
-- [week #1](#week-1)
+## 影森 content
+
+<br>
+
+- [🌲 distributed and decentralized training](#🌲-distributed-and-decentralized-training)
+- [🌲 training architectures](#🌲-training-architectures)
+  - [diloco](#diloco)
+  - [open diloco](#open-diloco)
+  - [distro](#distro)
+  - [demo](#demo)
+  - [swarm parallel](#swarm-parallel)
+- [🌲 training tools and techniques](#🌲-training-tools-and-techniques)
+  - [libraries](#libraries)
+  - [fine-tuning](#fine-tuning)
+    - [reinforcement learning from human feedback (rlhf)](#reinforcement-learning-from-human-feedback-rlhf)
+    - [direct preference optimization (dpo)](#direct-preference-optimization-dpo)
+- [🌲 models](#🌲-models)
+  - [deepseek](#deepseek)
+  - [anthropic](#anthropic)
+- [🌲 ml on blockchains](#🌲-ml-on-blockchains)
+- [🌲 security and sybil resistance](#🌲-security-and-sybil-resistance)
+  - [zero-knowledge machine learning (zkml)](#zero-knowledge-machine-learning-zkml)
+  - [fully homomorphic encryption (fhe)](#fully-homomorphic-encryption-fhe)
+  - [trusted execution environments (tees)](#trusted-execution-environments-tees)
+  - [verifiable compute](#verifiable-compute)
+- [🌲 hardware and costs](#🌲-hardware-and-costs)
 
 <br>
 
 ---
 
-### week #1
+## 🌲 distributed and decentralized training
 
 <br>
 
-#### defai and decentralized training
+- [deai – part 1: exiting the matrix](https://www.bigbrain.holdings/post/deai-part1-exiting-the-matrix/) and [deai - part 2: decentralized training](https://www.bigbrain.holdings/post/dai-part2-decentralized-training/)
+- [the past, present, and future of decentralized training](https://www.symbolic.capital/writing/frontier-training):
+  - <i>"decentralized ai training faces three critical hurdles: technical feasibility, achieving trustless and private handling of data and model weights, and scaling networks to compete with centralized solutions."</i>
+  - <i>"if we continue with this centralized approach, the only way forward will be to build ever-larger data centers, adding more compute power and investing heavily in advanced networking to avoid bottlenecks. but it's unclear if this model of scaling will even hold."</i>
+- [the state of the art of decentralized training](https://www.primeintellect.ai/blog/our-approach-to-decentralized-training)
+- [gpt@home: why the future of training is decentralized, by j. amico](https://www.gensyn.ai/articles/gpt-at-home)
+- [the scaling hypothesis](https://gwern.net/scaling-hypothesis)
 
 <br>
 
-* [deai – part 1: exiting the matrix](https://www.bigbrain.holdings/post/deai-part1-exiting-the-matrix/) and [deai - part 2: decentralized training](https://www.bigbrain.holdings/post/dai-part2-decentralized-training/)
-* [the past, present, and future of decentralized training](https://www.symbolic.capital/writing/frontier-training)
-* [the state of art of decentralized training](https://www.primeintellect.ai/blog/our-approach-to-decentralized-training)
-* [gpt@home: why the future of training is decentralized, by j. amico](https://www.gensyn.ai/articles/gpt-at-home)
+---
+
+## 🌲 training architectures
+
+<br>
+
+### decentralized training
+
+<br>
+
+- [swarm parallelism: training large models can be surprisingly communication-efficient](https://arxiv.org/pdf/2301.11913)
+- [deepmind's diloco: distributed low-communication training of language models](https://arxiv.org/pdf/2311.08105)
+- [decentralized training of foundation models in heterogeneous environments](https://arxiv.org/pdf/2206.01288)
+- [deepmind's dipaco: distributed path composition](https://arxiv.org/pdf/2403.10616)
+- [towards crowdsourced training of large neural networks using decentralized mixture-of-experts](https://arxiv.org/pdf/2002.04013)
+- [lo-fi: distributed fine-tuning without communication](https://arxiv.org/pdf/2210.11948)
+- [the future of large language model pre-training is federated](https://arxiv.org/abs/2405.10853v2)
 
 <br>
 
@@ -29,11 +73,161 @@
 
 <br>
 
-#### scaling and agi
+---
+
+### diloco
 
 <br>
 
-* [the scaling hypothesis](https://gwern.net/scaling-hypothesis)
+> <i>diloco (distributed low-communication) is a training approach that minimizes communication overhead between distributed nodes.</i>
+
+<br>
+
+- [deepmind's diloco: distributed low-communication training of language models](https://arxiv.org/pdf/2311.08105)
+
+<br>
+
+---
+
+### open diloco
+
+<br>
+
+> <i>open diloco extends the diloco approach with open-source implementations and community-driven improvements.</i>
+
+<br>
+
+- [prime intellect's opendiloco: an open-source framework for globally distributed low-communication training](https://arxiv.org/pdf/2407.07852)
+- [a preliminary report on distro](https://github.com/nousresearch/distro/blob/main/a_preliminary_report_on_distro.pdf)
+
+<br>
+
+---
+
+### distro
+
+<br>
+
+> <i>distro (distributed training optimization) focuses on optimizing distributed training workflows and resource utilization.</i>
+
+<br>
+
+- [distro: distributed training optimization](https://github.com/nousresearch/distro)
+
+<br>
+
+---
+
+### demo
+
+<br>
+
+> <i>demo (decentralized model) emphasizes decentralized model training and deployment strategies.</i>
+
+<br>
+
+- [demo: decoupled momentum optimization](https://arxiv.org/pdf/2411.19870)
+
+<br>
+
+---
+
+### swarm parallel
+
+<br>
+
+> <i>swarm parallel enables parallel training across multiple nodes with efficient resource allocation and synchronization.</i>
+
+<br>
+
+- [swarm parallelism: training large models can be surprisingly communication-efficient](https://arxiv.org/pdf/2301.11913)
+
+<br>
+
+---
+
+## 🌲 training tools and techniques
+
+<br>
+
+### libraries
+
+<br>
+
+- [ray compute engine](https://github.com/ray-project/ray): ai compute engine. ray consists of a core distributed runtime and a set of ai libraries for accelerating ml workloads
+- [deepspeed](https://github.com/deepspeedai/deepspeed): deep learning optimization library that makes distributed training and inference easy, efficient, and effective
+
+<br>
+
+---
+
+### fine-tuning
+
+<br>
+
+- [kiln](https://github.com/kiln-ai/kiln)
+- [unsloth](https://github.com/unslothai/unsloth)
+- [llama3.2_finetuning](https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/llm_finetuning_tutorials/llama3.2_finetuning)
+- [nousresearch's bittensor fine-tuning subnet](https://github.com/nousresearch/finetuning-subnet?tab=readme-ov-file)
+- [openai's guide](https://platform.openai.com/docs/guides/fine-tuning)
+
+<br>
+
+<img src="imgs/dpo_and_rlhf.png" width="500">
+
+<br>
+
+#### reinforcement learning from human feedback (rlhf)
+
+<br>
+
+- [nathan lambert's rlhf book](https://rlhfbook.com/)
+  - <i>"the most compelling view of how rlhf works is to think of how style applies to interactions you have with language models"</i>
+
+<br>
+
+#### direct preference optimization (dpo)
+
+<br>
+
+> <i>dpo is a method for fine-tuning language models that directly optimizes for human preferences without requiring reinforcement learning.</i>
+
+<br>
+
+---
+
+## 🌲 models
+
+<br>
+
+### deepseek
+
+<br>
+
+- [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+
+<br>
+
+#### r1
+
+<br>
+
+> <i>"deepseek r1 zero will be best known as the first open model trained with 'large-scale reinforcement learning (rl) without supervised fine-tuning (sft) as a preliminary step'."</i> - nathan lambert
+
+<br>
+
+- [deepseek-r1](https://github.com/deepseek-ai/deepseek-r1) ([ollama](https://ollama.com/library/deepseek-r1))
+- [light-r1](https://github.com/qihoo360/light-r1)
+- [open-r1](https://github.com/huggingface/open-r1)
+- [train-deepseek-r1](https://github.com/fareedkhan-dev/train-deepseek-r1)
+
+<br>
+
+#### v3
+
+<br>
+
+- [deepseek-v3](https://github.com/deepseek-ai/deepseek-v3)
 
 <br>
 
@@ -41,9 +235,9 @@
 
 <br>
 
-* [deepseek r1 recipe for o1](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
-* [distillation in llm](https://www.datacamp.com/blog/distillation-llm)
-* [RL backlog: OpenAI's many RLs, clarifying distillation, and latent reasoning](https://www.interconnects.ai/p/rl-backlog-openais-many-rls-clarifying)
+- [deepseek r1 recipe for o1](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
+- [distillation in llms](https://www.datacamp.com/blog/distillation-llm)
+- [rl backlog: openai's many rls, clarifying distillation, and latent reasoning](https://www.interconnects.ai/p/rl-backlog-openais-many-rls-clarifying)
 
 <br>
 
@@ -52,37 +246,103 @@
 
 <br>
 
-#### decentralized training papers
+---
+
+### anthropic
 
 <br>
 
-* [swarm parallelism: training large models can be surprisingly communication-efficient](https://arxiv.org/pdf/2301.11913)
-* [deepmind's diloco: distributed low-communication training of language models](https://arxiv.org/pdf/2311.08105)
-* [decentralized training of foundation models in heterogeneous environments](https://arxiv.org/pdf/2206.01288)
-* [deepmind's dipaco: distributed path composition](https://arxiv.org/pdf/2403.10616)
-* [towards crowdsourced training of large neural networks using decentralized mixture-of-experts](https://arxiv.org/pdf/2002.04013)
-* [lo-fi: distributed fine-tuning without communication](https://arxiv.org/pdf/2210.11948)
-* [the future of large language model pre-training is federated](https://arxiv.org/abs/2405.10853v2)
-
-<br>
-
-#### ml on blockchain
-
-<br>
-
-* [opML: Optimistic Machine Learning on Blockchain](https://arxiv.org/pdf/2401.17555)
-
-<br>
-
-
-#### parallel training techniques
-
-<br>
-
-* [a deep dive into 3d parallelism with nanotron](https://tj-solergibert.github.io/post/3d-parallelism/)
-* [asynchronous local-sgd training for language modeling](https://arxiv.org/pdf/2401.09135)
-* [model-agnostic meta-learning for fast adaptation of deep networks](https://arxiv.org/pdf/1703.03400)
+- [anthropic](https://www.anthropic.com/)
+- [anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
 
 <br>
 
 ---
+
+## 🌲 ml on blockchains
+
+<br>
+
+- [opml: optimistic machine learning on blockchain](https://arxiv.org/pdf/2401.17555)
+- [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2401.17555)
+- [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2401.17555)
+
+<br>
+
+---
+
+## 🌲 security and sybil resistance
+
+<br>
+
+> <i>to ensure valid participation in a decentralized training network, we need to leverage applied cryptography to verify that computation has been done correctly during training.</i>
+
+<br>
+
+---
+
+### zero-knowledge machine learning (zkml)
+
+<br>
+
+> <i>zero-knowledge machine learning has been used to attest to the performance of a model without revealing the model's underlying weights.</i>
+
+<br>
+
+- [ezkl](https://github.com/zkonduit/ezkl): engine for doing inference for deep learning models and other computational graphs in a zk-snark ([python notebooks](https://github.com/zkonduit/ezkl/tree/main/examples/notebooks))
+
+<br>
+
+---
+
+### fully homomorphic encryption (fhe)
+
+<br>
+
+> <i>the holy grail of privacy-preserving computation, fhe allows for computation on encrypted data. however, to date, pre-training on encrypted data has simply been unfeasible.</i>
+
+<br>
+
+---
+
+### trusted execution environments (tees)
+
+<br>
+
+> <i>tees are much more computationally efficient: model weights could be held and processed in tees to ensure privacy without introducing significant overhead. however, they are only present on specialized hardware.</i>
+
+<br>
+
+---
+
+### verifiable compute
+
+<br>
+
+- [prime intelect's toploc](https://www.primeintellect.ai/blog/toploc)
+
+<br>
+
+---
+
+## 🌲 hardware and costs
+
+<br>
+
+- [building an efficient gpu server with nvidia geforce rtx 4090s/5090s](https://a16z.com/building-an-efficient-gpu-server-with-nvidia-geforce-rtx-4090s-5090s/)
+
+<br>
+
+---
+
+### costs
+
+<br>
+
+```
+centralized training's cost of compute = training cost
+
+decentralized training's cost of compute * decentralization multiplier
+```
+
+<br>
