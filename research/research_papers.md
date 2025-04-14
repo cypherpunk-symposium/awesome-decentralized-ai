@@ -28,6 +28,15 @@
 - [language models are few-shot learners](https://arxiv.org/abs/2005.14165)
 - [huggingface's transformers: state-of-the-art natural language processing](https://arxiv.org/abs/1910.03771)
 - [llama: open and efficient foundation language models](https://arxiv.org/abs/2302.13971)
+- [scaling laws for neural language models](https://arxiv.org/abs/2001.08361)
+- [improving language understanding by generative pre-training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- [language models are unsupervised multitask learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+- [playing atari with deep reinforcement learning](https://arxiv.org/abs/1312.5602)
+- [mastering the game of go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)
+- [mastering chess and shogi by self-play with a general reinforcement learning algorithm](https://arxiv.org/abs/1712.01815)
+- [dota 2 with large scale deep reinforcement learning](https://arxiv.org/abs/1912.06680)
+- [grandmaster level in starcraft ii using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)
 
 <br>
 
@@ -110,7 +119,7 @@
 - [opml: optimistic machine learning on blockchain](https://arxiv.org/abs/2401.17555)
 - [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2301.04820)
 - [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2304.09858)
-
+- [generative agents: interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442)
 <br>
 
 ---

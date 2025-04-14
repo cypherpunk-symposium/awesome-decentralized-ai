@@ -23,7 +23,7 @@
 
 ### researcher layer
 
-- [🌲 decentralized ai (deai) studies](research/README.md)
+- [🌲 decentralized ai (deai) studies](research/readme.md)
 - [🌲 quintessential papers](research/research_papers.md)
 - [🌲 glossary](research/glossary.md)
 
@@ -145,7 +145,7 @@
 
 <br>
 
-- [prime intellect's launching the first decentralized training of a 10B parameter model](https://www.primeintellect.ai/blog/intellect-1)
+- [prime intellect's launching the first decentralized training of a 10b parameter model](https://www.primeintellect.ai/blog/intellect-1)
 - [prime intellect's scaling distributed synthetic data generation for verified reasoning](https://www.primeintellect.ai/blog/synthetic-1)
 - [olas network](https://olas.network/)
 - [cookie.fun's defai](https://www.cookie.fun/?type=defai)
@@ -268,11 +268,13 @@
 
 <br>
 
+- [highlights chat with ilya sutskever & jensen huang: ai today & vision of the future](https://www.youtube.com/watch?v=gi4tpi48dla&t=778s)
 - [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpei)
 - [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=oc61vo4taae)
 - [around the block with coinfund: decentralized training in ai (2024)](https://www.youtube.com/watch?v=ichh_3gqf94)
 - [marc andreessen on ai, tech, censorship and dining with trump](https://www.youtube.com/watch?v=sgtezxw-ytq)
 - [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnew090)
 - [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jnmsft7g)
+- [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcas](https://www.youtube.com/watch?v=ugvhcxcomm4&t=15487s)
 
 <br>
