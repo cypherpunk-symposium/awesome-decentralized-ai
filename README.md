@@ -276,5 +276,6 @@
 - [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnew090)
 - [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jnmsft7g)
 - [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcast](https://www.youtube.com/watch?v=ugvhcxcomm4&t=15487s)
+- [decentralized AI day | from security to science acceleration| allison duettman](https://www.youtube.com/watch?v=hgSQ3hNNsGc)
 
 <br>
