@@ -45,6 +45,7 @@
 - [promptflow](https://github.com/microsoft/promptflow): a suite of development tools to streamline the end-to-end development cycle of llm-based ai applications, good for prototyping and monitoring
 - [crew ai](https://github.com/crewaiinc/crewai): a framework for orchestrating role-playing, autonomous ai agents
 - [agno](https://github.com/agno-agi/agno): a lightweight framework for building agents with memory
+- [heurist-network](https://github.com/heurist-network/heurist-agent-framework?tab=readme-ov-file)
 - [langroid](https://github.com/langroid/langroid): a lightweight, extensible, and principled framework to easily build llm applications
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel): microsoft's framework to connect to any llm with built-in support
 - [autogen](https://github.com/microsoft/autogen): microsoft's framework for agentic ai
@@ -63,7 +64,8 @@
 - [second-me](https://github.com/mindverse/second-me): train your ai self, amplify yourself, bridge the world
 - [alice](https://github.com/myshell-ai/ailice): a fully autonomous, general-purpose ai agent
 - [openhands](https://github.com/all-hands-ai/openhands): a platform for software development ai agents
-- [drusilla-py](https://github.com/lilit-org/drusilla-py): a multifaceted agentic framework for deepseek-r1
+- [agentscope](https://github.com/modelscope/agentscope)
+- [nexus by talus](https://github.com/Talus-Network/nexus)
 
 <br>
 
@@ -80,10 +82,14 @@
 
 <br>
 
+- [modelcontextprotocol.io](https://modelcontextprotocol.io/introduction)
+- [smithery.ai](https://smithery.ai/)
+- [opentools](https://opentools.com/)
 - [modelcontextprotocol's list](https://github.com/modelcontextprotocol/servers)
 - [mcp-directory's list](https://github.com/chatmcp/mcp-directory)
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- [github-mcp-serve](https://github.com/github/github-mcp-server)
+- [github-mcp-server](https://github.com/github/github-mcp-server)
+- [mcp-send-email](https://github.com/resend/mcp-send-email/tree/main)
 
 <br>
 
@@ -91,15 +97,23 @@
 
 <br>
 
-- [browser-use](https://github.com/browser-use/browser-use)
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+- [cursor](https://www.cursor.com/en)
+- [browser-use](https://github.com/browser-use/browser-use)
 - [composio's list](https://github.com/composiohq/composio)
+- [mintlify](https://mintlify.com/blog/generate-mcp-servers-for-your-docs)
+
+<br>
+
+<p align="center">
+    <img src="research/imgs/mcp_market_2025.png" width="500" al>
+</p>
 
 <br>
 
 ---
 
-## 🌲 blockchain-specialized frameworks
+## 🌲 decentralized or blockchain-specialized frameworks
 
 <br>
 
@@ -115,6 +129,16 @@
 - [heyano](https://github.com/realwagmi/anon-integration-guide)
 - [mysuperagent](https://github.com/morpheusais/mysuperagent): a developer-focused platform that enables building, testing, and deploying ai agents
 - [gensyn.ai](https://www.gensyn.ai/testnet) and [rl-swarm](https://github.com/gensyn-ai/rl-swarm): "the network for machine intelligence"
+- [coinbase's agentkit](https://github.com/coinbase/agentkit)
+- [aether framework](https://github.com/AetherFrameworkAI/aether-framework)
+- [intent.kit](https://github.com/crestalnetwork/intentkit)
+- [aizelnetwork.com](https://aizelnetwork.com/)
+- [phala.network](https://phala.network/)
+- [marlin.org](https://www.marlin.org/)
+- [bakery.dev](https://bakery.dev/)
+- [vana.org](https://www.vana.org/)
+- [masa.ai](https://www.masa.ai/)
+- [send.ai](https://kit.sendai.fun/)
 
 <br>
 
@@ -124,10 +148,12 @@
 
 - [goat](https://github.com/goat-sdk/goat): a large agentic finance toolkit for ai agents
 - [trader](https://github.com/valory-xyz/trader): trader agent for ai prediction markets on gnosis
+- [0xfreysa](https://github.com/0xfreysa/agent)
 - [agent-tools-ts](https://github.com/aibtcdev/agent-tools-ts): agent tooling in typescript
 - [nousflash + flashbots agent](https://github.com/nousresearch/nousflash-agents)
 - [ai-financial-agent](https://github.com/virattt/ai-financial-agent): financial agent for investment research
 - [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ai hedge fund agent
+- [agent.hub](https://hub.ensemble.codes/)
 
 <br>
 
@@ -135,27 +161,26 @@
 
 <br>
 
-- [dune analytics mcp](https://github.com/kukapay/dune-analytics-mcp)
 - [evm mcp](https://github.com/mcpdotdirect/evm-mcp-server)
+- [foundry mcp server](https://github.com/PraneshASP/foundry-mcp-server)
+- [dune analytics mcp](https://github.com/kukapay/dune-analytics-mcp)
 - [investor mcp](https://github.com/ferdousbhai/investor-agent)
 
 <br>
 
-### cool resources
+#### cool resources
 
 <br>
 
-- [prime intellect's launching the first decentralized training of a 10B parameter model](https://www.primeintellect.ai/blog/intellect-1)
-- [prime intellect's scaling distributed synthetic data generation for verified reasoning](https://www.primeintellect.ai/blog/synthetic-1)
-- [a deep drive into mcp and the future of ai tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling)
-- [olas network](https://olas.network/)
+- [olas network](https://olas.network/) and [whitepaper](https://olas.network/documents/whitepaper/Whitepaper%20v1.0.pdf)
 - [cookie.fun's defai](https://www.cookie.fun/?type=defai)
 - [awesomeagents.ai](https://awesomeagents.ai/)
-- [ok-contract](https://github.com/okcontract/sdk-react)
 - [aiagenttoolkit.xyz](https://www.aiagenttoolkit.xyz/courses)
 - [ef's ai agents guide](https://ethereum.org/en/ai-agents/)
 - [tesa on rise of ai agents](https://collective.flashbots.net/t/rise-of-ai-agents/4813)
-- [coinbase's agentkit](https://github.com/coinbase/agentkit)
+- [prime intellect's launching the first decentralized training of a 10B parameter model](https://www.primeintellect.ai/blog/intellect-1)
+- [prime intellect's scaling distributed synthetic data generation for verified reasoning](https://www.primeintellect.ai/blog/synthetic-1)
+- [sybil (built on bittensor)](https://sybil.com/)
 
 <br>
 
@@ -216,6 +241,7 @@
 - [prime intellect](https://www.primeintellect.ai/) and its [🤗](https://huggingface.co/primeintellect)
 - [lattica.ai](https://www.lattica.ai/) and its [🤗](https://huggingface.co/lattica)
 - [ezkl](https://ezkl.xyz/)
+- [answer.ai](https://www.answer.ai/)
 
 <br>
 
@@ -231,6 +257,7 @@
 - [fastgpt](https://github.com/labring/fastgpt)
 - [nearai_langchain](https://github.com/nearai/nearai_langchain)
 - [graphiti](https://github.com/getzep/graphiti)
+- [metacoginition and corrective RAG systems](https://github.com/microsoft/ai-agents-for-beginners/blob/main/09-metacognition/README.md#3-corrective-rag-system)
 
 <br>
 
@@ -254,12 +281,13 @@
 
 ---
 
-### guides on agentic building
+### general guides on agentic building
 
 <br>
 
 - [microsoft's lessons to get started building ai agents](https://github.com/microsoft/ai-agents-for-beginners)
 - [financial-machine-learning](https://github.com/firmai/financial-machine-learning)
+- [a deep drive into mcp and the future of ai tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling)
 
 <br>
 
@@ -269,14 +297,14 @@
 
 <br>
 
-- [highlights chat with jensen huang and & ilya sutskever: ai today & vision of the future](https://www.youtube.com/watch?v=gi4tpi48dla&t=778s)
-- [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpei)
-- [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=oc61vo4taae)
-- [around the block with coinfund: decentralized training in ai (2024)](https://www.youtube.com/watch?v=ichh_3gqf94)
-- [marc andreessen on ai, tech, censorship and dining with trump](https://www.youtube.com/watch?v=sgtezxw-ytq)
-- [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnew090)
-- [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jnmsft7g)
-- [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcast](https://www.youtube.com/watch?v=ugvhcxcomm4&t=15487s)
+- [highlights chat with jensen huang and & ilya sutskever: ai today & vision of the future](https://www.youtube.com/watch?v=GI4Tpi48DlA)
+- [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI&t=2s)
+- [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=OC61Vo4tAaE&t=5s)
+- [marc andreessen on ai, tech, censorship and dining with trump](https://www.youtube.com/watch?v=sgTeZXw-ytQ&t=1s)
+- [agi in 26 months?! the future no one's ready for](https://www.youtube.com/watch?v=lrfplnEW090)
+- [dario amodei - ceo of anthropic | podcast | in good company | norges bank investment management](https://www.youtube.com/watch?v=xm6jNMSFT7g&t=60s)
+- [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcast](https://www.youtube.com/watch?v=ugvHCXCOmm4&t=15488s)
 - [decentralized AI day | from security to science acceleration| allison duettman](https://www.youtube.com/watch?v=hgSQ3hNNsGc)
+- [building agents with mcp - with mahesh murag of anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=4927s)
 
 <br>

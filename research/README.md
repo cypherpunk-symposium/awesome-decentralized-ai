@@ -170,6 +170,7 @@
 - [llama3.2_finetuning](https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/llm_finetuning_tutorials/llama3.2_finetuning)
 - [nousresearch's bittensor fine-tuning subnet](https://github.com/nousresearch/finetuning-subnet?tab=readme-ov-file)
 - [openai's guide](https://platform.openai.com/docs/guides/fine-tuning)
+- [x-box](https://github.com/Nim-Network-Foundation/X-box)
 
 <br>
 
