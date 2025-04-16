@@ -119,7 +119,18 @@
 - [opml: optimistic machine learning on blockchain](https://arxiv.org/abs/2401.17555)
 - [decentralized machine learning: fundamentals, state of the art, and future directions](https://arxiv.org/abs/2301.04820)
 - [blockchain-based federated learning: a comprehensive survey](https://arxiv.org/abs/2304.09858)
+
+<br>
+
+---
+
+## 🌲 agentic economy
+
+<br>
+
 - [generative agents: interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442)
+- [cooperative and uncooperative institution designs: surprises and problems in open-source game theory](https://arxiv.org/abs/2208.07006)
+  
 <br>
 
 ---
