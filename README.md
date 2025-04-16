@@ -147,6 +147,7 @@
 
 - [prime intellect's launching the first decentralized training of a 10B parameter model](https://www.primeintellect.ai/blog/intellect-1)
 - [prime intellect's scaling distributed synthetic data generation for verified reasoning](https://www.primeintellect.ai/blog/synthetic-1)
+- [a deep drive into mcp and the future of ai tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling)
 - [olas network](https://olas.network/)
 - [cookie.fun's defai](https://www.cookie.fun/?type=defai)
 - [awesomeagents.ai](https://awesomeagents.ai/)
