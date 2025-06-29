@@ -8,6 +8,12 @@
 
 <br>
 
+<p align="center">
+<img src="research/imgs/teacher_from_the_future.png" width="50%" align="center"/>
+</p>
+
+<br>
+
 ## 影森 content
 
 <br>

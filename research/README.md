@@ -357,3 +357,4 @@ decentralized training's cost of compute * decentralization multiplier
 <br>
 
 - [x explains z% of the variance in y, by l. lang](https://www.lesswrong.com/posts/E3nsbq2tiBv6GLqjB/x-explains-z-of-the-variance-in-y)
+- [mental frameworks for AI & crypto, by t. yan](https://chainofthought.xyz/p/mental-frameworks-for-ai-crypto)
