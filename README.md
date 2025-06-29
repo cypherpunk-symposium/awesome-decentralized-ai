@@ -297,6 +297,7 @@
 
 <br>
 
+- [AI, mars, and immortality: are we dreaming big enough?, with peter thiel](https://www.youtube.com/watch?v=vV7YgnPUxcU)
 - [highlights chat with jensen huang and & ilya sutskever: ai today & vision of the future](https://www.youtube.com/watch?v=GI4Tpi48DlA)
 - [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI&t=2s)
 - [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=OC61Vo4tAaE&t=5s)
@@ -306,5 +307,6 @@
 - [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcast](https://www.youtube.com/watch?v=ugvHCXCOmm4&t=15488s)
 - [decentralized AI day | from security to science acceleration| allison duettman](https://www.youtube.com/watch?v=hgSQ3hNNsGc)
 - [building agents with mcp - with mahesh murag of anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=4927s)
+
 
 <br>
