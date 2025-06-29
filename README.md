@@ -257,7 +257,7 @@
 - [fastgpt](https://github.com/labring/fastgpt)
 - [nearai_langchain](https://github.com/nearai/nearai_langchain)
 - [graphiti](https://github.com/getzep/graphiti)
-- [metacoginition and corrective RAG systems](https://github.com/microsoft/ai-agents-for-beginners/blob/main/09-metacognition/README.md#3-corrective-rag-system)
+- [metacognition and corrective RAG systems](https://github.com/microsoft/ai-agents-for-beginners/blob/main/09-metacognition/README.md#3-corrective-rag-system)
 
 <br>
 
@@ -307,6 +307,5 @@
 - [dario amodei: anthropic ceo on claude, agi & the future of ai & humanity | lex fridman podcast](https://www.youtube.com/watch?v=ugvHCXCOmm4&t=15488s)
 - [decentralized AI day | from security to science acceleration| allison duettman](https://www.youtube.com/watch?v=hgSQ3hNNsGc)
 - [building agents with mcp - with mahesh murag of anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=4927s)
-
 
 <br>

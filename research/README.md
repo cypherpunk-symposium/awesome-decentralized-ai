@@ -27,7 +27,7 @@
   - [fully homomorphic encryption (fhe)](#fully-homomorphic-encryption-fhe)
   - [trusted execution environments (tees)](#trusted-execution-environments-tees)
   - [verifiable compute](#verifiable-compute)
-- [🌲 hardware and costs](#🌲-hardware-and-costs)
+- [🌲 infra, hardware and costs](#🌲-infra-hardware-and-costs)
 
 <br>
 
@@ -326,11 +326,12 @@
 
 ---
 
-## 🌲 hardware and costs
+## 🌲 infra, hardware, and costs
 
 <br>
 
 - [building an efficient gpu server with nvidia geforce rtx 4090s/5090s](https://a16z.com/building-an-efficient-gpu-server-with-nvidia-geforce-rtx-4090s-5090s/)
+- [the new AI infrastructure stack part I, by devansh](https://artificialintelligencemadesimple.substack.com/p/the-gpu-monopoly-is-over-the-new)
 
 <br>
 
