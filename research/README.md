@@ -28,6 +28,7 @@
   - [trusted execution environments (tees)](#trusted-execution-environments-tees)
   - [verifiable compute](#verifiable-compute)
 - [🌲 infra, hardware and costs](#🌲-infra-hardware-and-costs)
+- [🌲 delightful essays](#🌲-delightful-essays)
 
 <br>
 
@@ -348,3 +349,11 @@ decentralized training's cost of compute * decentralization multiplier
 ```
 
 <br>
+
+---
+
+## 🌲 delightful essays
+
+<br>
+
+- [x explains z% of the variance in y, by l. lang](https://www.lesswrong.com/posts/E3nsbq2tiBv6GLqjB/x-explains-z-of-the-variance-in-y)
