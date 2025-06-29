@@ -198,6 +198,25 @@
 
 ---
 
+## data
+
+<br>
+
+<img src="imgs/crypto_data.png" width="500">
+<img src="imgs/crypto_data_2.png" width="500">
+
+<br>
+
+### videos
+
+<br>
+
+- [optimize RAG with AI agents & vector databases](https://www.youtube.com/watch?v=Yq29bZ8Hlrc)
+
+<br>
+
+---
+
 ## 🌲 models
 
 <br>
@@ -333,6 +352,11 @@
 
 - [building an efficient gpu server with nvidia geforce rtx 4090s/5090s](https://a16z.com/building-an-efficient-gpu-server-with-nvidia-geforce-rtx-4090s-5090s/)
 - [the new AI infrastructure stack part I, by devansh](https://artificialintelligencemadesimple.substack.com/p/the-gpu-monopoly-is-over-the-new)
+- [compute, the new primitive, by t. yan](https://chainofthought.xyz/p/big-idea-2-compute-the-new-primitive)
+
+<br>
+
+<img src="imgs/deai.png" width="500">
 
 <br>
 

@@ -304,6 +304,7 @@
 <br>
 
 - [AI, mars, and immortality: are we dreaming big enough?, with peter thiel](https://www.youtube.com/watch?v=vV7YgnPUxcU)
+- [where crypto meets AI, with c. dixon & d. george](https://www.youtube.com/watch?v=izL5YPAF5Dg)
 - [highlights chat with jensen huang and & ilya sutskever: ai today & vision of the future](https://www.youtube.com/watch?v=GI4Tpi48DlA)
 - [deepseek, china, openai, nvidia, xai, tsmc, stargate, and ai megaclusters | lex fridman podcast](https://www.youtube.com/watch?v=_1f-o0nqpEI&t=2s)
 - [deepseek r1 & the bear case for nvidia stock (2025)](https://www.youtube.com/watch?v=OC61Vo4tAaE&t=5s)
