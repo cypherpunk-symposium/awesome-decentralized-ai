@@ -1,4 +1,4 @@
-# ⽊ lilit's awesome decentralized ai
+# ⽊  awesome decentralized AI
 
 [![awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![license: unlicense](https://img.shields.io/badge/license-unlicense-blue.svg)](http://unlicense.org/)

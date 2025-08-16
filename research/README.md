@@ -48,6 +48,35 @@
 
 <br>
 
+#### just a bunch of [bittensor](https://github.com/opentensor/bittensor) projects for arxiv (with no preference, order, or endorsement)
+
+- [taostats.io](https://taostats.io)
+- [taohash.ai](https://taohash.ai/)
+- [chutes.ai](https://chutes.ai/)
+- [zeussubnet.com](https://www.zeussubnet.com/)
+- [masa.ai](https://github.com/masa-finance/masa-bittensor)
+- [quantum bittensor](https://x.com/qBitTensorLabs)
+- [focus.inc](https://www.focus.inc/)
+- [macrocosmos.ai](https://www.macrocosmos.ai/)
+- [neuralinternet.ai](https://neuralinternet.ai/)
+- [nineteen.ai](https://nineteen.ai/)
+- [gaiaresearch.ai](https://www.gaiaresearch.ai/)
+- [tensorplex.ai](https://tensorplex.ai/)
+- [infinitegam.es](https://www.infinitegam.es/)
+- [sturdy.finance](https://sturdy.finance/)
+- [storb.dev](https://storb.dev/)
+- [metahash73.com](https://metahash73.com/)
+- [subvortex.com](https://www.subvortex.com/)
+- [inferencelabs.com](https://inferencelabs.com/)
+- [bitmind.ai](https://bitmind.ai/)
+- [computehorde.io](https://computehorde.io/)
+- [vidaio.io](https://vidaio.io/)
+- [candlestao](https://candlestao.com/)
+- [on layerzero](https://x.com/LayerZero_Core/status/1923376914951295385)
+- [chain of thought on bittensor](https://chainofthought.xyz/t/%F0%9F%94%B1%20Bittensor)
+
+<br>
+
 ---
 
 ## 🌲 training architectures
@@ -169,7 +198,7 @@
 - [kiln](https://github.com/kiln-ai/kiln)
 - [unsloth](https://github.com/unslothai/unsloth)
 - [llama3.2_finetuning](https://github.com/shubhamsaboo/awesome-llm-apps/tree/main/llm_finetuning_tutorials/llama3.2_finetuning)
-- [nousresearch's bittensor fine-tuning subnet](https://github.com/nousresearch/finetuning-subnet?tab=readme-ov-file)
+- [nousresearch's bittensor fine-tuning subnet](https://github.com/nousresearch/finetuning-subnet?tab=readme-ov-file), [gradient.io](https://gradients.io/),
 - [openai's guide](https://platform.openai.com/docs/guides/fine-tuning)
 - [x-box](https://github.com/Nim-Network-Foundation/X-box)
 
