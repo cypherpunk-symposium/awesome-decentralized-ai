@@ -39,9 +39,11 @@
 <br>
 
 - [aegaeon: effective gpu pooling for concurrent llm serving on the market, by xiang et al. (2025)](https://ennanzhai.github.io/pub/sosp25-aegaeon.pdf)
-    - model auto-scaling at the token granularity for effective gpu pooling
-    - schedules multi-model requests and makes auto-scaling decisions on a per-token basis
-    - reduces auto-scaling overhead by 97% through component reuse, explicit memory management, and fine-grained KV cache synchronization
+  - model auto-scaling at the token granularity for effective gpu pooling
+  - schedules multi-model requests and makes auto-scaling decisions on a per-token basis (token-level auto-scaling solution)
+  - reduces auto-scaling overhead by 97% through component reuse, explicit memory management, and fine-grained KV cache synchronization
+  - memory fragmentation when storing KV cache of several different shapes: slab allocation to build unified KV caches for every possible
+shape (every KV cache region - VRAM or DRAM- is divided into fixed-size chunks/slabs)
 - [deai – part 1: exiting the matrix](https://www.bigbrain.holdings/post/deai-part1-exiting-the-matrix/) and [deai - part 2: decentralized training](https://www.bigbrain.holdings/post/dai-part2-decentralized-training/)
 - [the past, present, and future of decentralized training](https://www.symbolic.capital/writing/frontier-training):
   - <i>"decentralized ai training faces three critical hurdles: technical feasibility, achieving trustless and private handling of data and model weights, and scaling networks to compete with centralized solutions."</i>
