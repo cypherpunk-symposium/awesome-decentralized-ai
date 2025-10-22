@@ -250,6 +250,18 @@ shape (every KV cache region - VRAM or DRAM- is divided into fixed-size chunks/s
 
 <br>
 
+### distributed inference
+
+<br>
+
+- [parallax: efficient distributed llm inference on heterogeneous hardware, by tong et al. (2025)](https://gradient.network/parallax.pdf)
+  - distributed inference framework that runs llms seamlessly across heterogeneous, decentralized hardware (p2p-based pipeline parallelism)
+stages are mapped directly to nodes in a peer-to-peer network)
+  - high-throughput, low-latency serving for geographically dispersed devices based on pipeline parallelism, through dynamic KV-cache management, continuous batching, and optimized kernels
+  - 3.1x reduction in end-to-end latency, 5.3x improvement in intertoken latency, and 3.1x higher throughput compared to state-of-the-art baseline
+
+<br>
+
 ---
 
 ## 🌲 models
