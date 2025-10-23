@@ -52,6 +52,18 @@ shape (every KV cache region - VRAM or DRAM- is divided into fixed-size chunks/s
 - [gpt@home: why the future of training is decentralized, by j. amico](https://www.gensyn.ai/articles/gpt-at-home)
 - [the scaling hypothesis](https://gwern.net/scaling-hypothesis)
 
+
+<br>
+
+### determinism and reproducibility
+
+<br>
+
+* [defeating nondeterminism in llm inference, by thinking machines (2025)](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+* [three solutions to nondeterminism in ai, by hellas (2025)](https://blog.hellas.ai/blog/three-solutions-to-nondeterminism-in-ai/)
+  - verification through dealing with floating-point non-associativity, remove floating-point calculations from models entirely, and verifying tasks directly.
+
+
 <br>
 
 #### just a bunch of [bittensor](https://github.com/opentensor/bittensor) projects for arxiv (with no preference, order, or endorsement)
