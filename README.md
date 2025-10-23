@@ -303,6 +303,9 @@
 
 <br>
 
+- [the state of open models, by n. lambert (2025)](https://www.youtube.com/watch?v=FUcilE5Gx_0)
+    - nice overview of open models pre-/post-2025
+    - nice discussion on qwen's work, and 20+ chinese orgs producing open models, and gpt-oss
 - [AI, mars, and immortality: are we dreaming big enough?, with peter thiel](https://www.youtube.com/watch?v=vV7YgnPUxcU)
 - [where crypto meets AI, with c. dixon & d. george](https://www.youtube.com/watch?v=izL5YPAF5Dg)
 - [highlights chat with jensen huang and & ilya sutskever: ai today & vision of the future](https://www.youtube.com/watch?v=GI4Tpi48DlA)
