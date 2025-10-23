@@ -52,17 +52,18 @@ shape (every KV cache region - VRAM or DRAM- is divided into fixed-size chunks/s
 - [gpt@home: why the future of training is decentralized, by j. amico](https://www.gensyn.ai/articles/gpt-at-home)
 - [the scaling hypothesis](https://gwern.net/scaling-hypothesis)
 
-
 <br>
 
 ### determinism and reproducibility
 
 <br>
 
-* [defeating nondeterminism in llm inference, by thinking machines (2025)](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
-* [three solutions to nondeterminism in ai, by hellas (2025)](https://blog.hellas.ai/blog/three-solutions-to-nondeterminism-in-ai/)
+- [defeating nondeterminism in llm inference, by thinking machines (2025)](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+- [three solutions to nondeterminism in ai, by hellas (2025)](https://blog.hellas.ai/blog/three-solutions-to-nondeterminism-in-ai/)
   - verification through dealing with floating-point non-associativity, remove floating-point calculations from models entirely, and verifying tasks directly.
-
+- [towards deterministic inference in sgLang and reproducible rl training, by the sglang team (2025)](https://lmsys.org/blog/2025-09-22-sglang-deterministic/)
+  - claim of fully deterministic inference while maintaining compatibility with chunked prefill, CUDA graphs, radix cache, and non-greedy sampling.
+  - validation experiments on qwen3-8b with full reproducibility: two independent training runs produce identical curves. 
 
 <br>
 
