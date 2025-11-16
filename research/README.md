@@ -61,9 +61,11 @@ shape (every KV cache region - VRAM or DRAM- is divided into fixed-size chunks/s
 - [defeating nondeterminism in llm inference, by thinking machines (2025)](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 - [three solutions to nondeterminism in ai, by hellas (2025)](https://blog.hellas.ai/blog/three-solutions-to-nondeterminism-in-ai/)
   - verification through dealing with floating-point non-associativity, remove floating-point calculations from models entirely, and verifying tasks directly.
-- [towards deterministic inference in sgLang and reproducible rl training, by the sglang team (2025)](https://lmsys.org/blog/2025-09-22-sglang-deterministic/)
+- [towards deterministic inference in sglang and reproducible rl training, by the sglang team (2025)](https://lmsys.org/blog/2025-09-22-sglang-deterministic/)
   - claim of fully deterministic inference while maintaining compatibility with chunked prefill, CUDA graphs, radix cache, and non-greedy sampling.
-  - validation experiments on qwen3-8b with full reproducibility: two independent training runs produce identical curves. 
+  - validation experiments on qwen3-8b with full reproducibility: two independent training runs produce identical curves.
+- [deep learning determinism, by d. riach (2019)](https://www.youtube.com/watch?v=TB07_mUMt0U)
+  - old but good; debugging non-determinism on gpus and tensorflow 
 
 <br>
 
