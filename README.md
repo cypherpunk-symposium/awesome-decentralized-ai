@@ -303,7 +303,8 @@
 
 <br>
 
-- [how flashattention 4 works, by GPUMODE](https://www.youtube.com/watch?v=VPslgC9piIw)
+- [metis foundation: a series of innovations on the cutting edge of web3 & AI, by e. sinelnikova et al (2025)](https://www.metis.io/blog/metis-foundation-portfolio-a-series-of-innovations-on-the-cutting-edge-of-web3-ai)
+- [how flashattention 4 works, by GPUMODE (2025)](https://www.youtube.com/watch?v=VPslgC9piIw)
 - [the state of open models, by n. lambert (2025)](https://www.youtube.com/watch?v=FUcilE5Gx_0)
     - nice overview of open models pre-/post-2025
     - nice discussion on qwen's work, and 20+ chinese orgs producing open models, and gpt-oss
